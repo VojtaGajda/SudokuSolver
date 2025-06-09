@@ -1,0 +1,16 @@
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.AssemblyReference.cache
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.cache
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe.config
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSo.AAC54AF1.Up2Date
+C:\Users\gajda\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.MainForm.resources
